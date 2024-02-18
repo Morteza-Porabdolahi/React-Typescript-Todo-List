@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 import { TodoInterface } from "../todo.model"
 
 import { EditTodo } from "./EditTodo";
